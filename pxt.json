@@ -5,6 +5,7 @@
     "license": "MIT",
     "dependencies": {
         "core": "*",
+        "SensorPlus": "github:kittenbothk/pxt-moduleplus",
         "microphone": "*"
     },
     "files": [
