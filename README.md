@@ -1,6 +1,6 @@
-# robotbit
+# RobotBit - OT URE Bauru
 
-Extension for Kittenbot Robotbit
+Extensão modificada para a OT de Robótica 2025.2 da URE Bauru
 
 ## Feature
 
@@ -37,4 +37,5 @@ MIT
 
 ```package
 robotbit=github:Kittenbot/pxt-robotbit
+
 ```
